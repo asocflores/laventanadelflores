@@ -4303,15 +4303,17 @@
 		padding: 4rem 0 2rem 0 ;
 		background: #25D4AB;
 		text-align: center;
-		text-decoration: none;
+
 	}
 
 		#footer a {
 			color: rgba(255, 255, 255, 0.5);
+			text-decoration: none !important;
 		}
 
 			#footer a:hover {
 				color: #FFF;
+				text-decoration: none;
 			}
 
 		#footer .copyright {
